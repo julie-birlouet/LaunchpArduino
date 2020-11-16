@@ -1,2 +1,2 @@
-# PolyTheremine
-Un thérémine construit à partir d'une carte Arduino.
+# LaunchpArduino
+Un launchpad construit à partir d'une carte Arduino.
